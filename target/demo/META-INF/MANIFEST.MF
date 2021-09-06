@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Built-By: iotcube
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_291
+Extension-Name: demo
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: demo
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: io.jenkins.plugins
+Short-Name: demo
+Long-Name: TODO Plugin
+Url: https://github.com/jenkinsci/demo-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-07/13/2021 14:22-iotcube)
+Hudson-Version: 2.277.1
+Jenkins-Version: 2.277.1
+Plugin-Dependencies: structs:1.22
+Plugin-Developers: 
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/demo-plugin
+

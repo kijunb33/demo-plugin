@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: demo
+Long-Name: TODO Plugin
+Url: https://github.com/jenkinsci/demo-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-07/13/2021 14:24-iotcube)
+Hudson-Version: 2.277.1
+Jenkins-Version: 2.277.1
+Plugin-Dependencies: structs:1.22
+Plugin-Developers: 
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/demo-plugin
+Libraries: /Users/iotcube/Downloads/demo-plugin/src/main/resources,/Us
+ ers/iotcube/Downloads/demo-plugin/target/classes
+Resource-Path: /Users/iotcube/Downloads/demo-plugin/src/main/webapp
+
